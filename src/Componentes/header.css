@@ -1,0 +1,40 @@
+header {
+    background-color: rgb(215, 86, 248);
+    width: 1884px;
+    height: 260px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .h1 {
+    color: black;
+    margin-bottom: 150px;
+    font-size: 35px;
+  }
+  
+  .enlaceUno {
+    background-color: rgb(247, 247, 247);
+    width: 334px;
+    height: 79px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: -10px;
+    margin-left: 20px;
+  }
+  .enlaceDos {
+    background-color: rgb(247, 247, 247);
+    width: 334px;
+    height: 79px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: -10px;
+    margin-right: 20px;
+  }
+  

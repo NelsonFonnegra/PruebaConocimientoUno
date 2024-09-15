@@ -1,0 +1,38 @@
+section {
+    background-color: rgb(174, 55, 174);
+    width: 907px;
+    height: 370px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  .img {
+    background-color: aqua;
+    width: 133px;
+    height: 260px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .sectionDos {
+    background-color: rgb(18, 147, 12);
+    width: 710px;
+    height: 324px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  h1 {
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  
